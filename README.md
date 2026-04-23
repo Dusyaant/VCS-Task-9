@@ -36,5 +36,4 @@ This repository documents the implementation of a structured Version Control wor
 - `git log --oneline --graph --all`
 
 ## 👨‍💻 Author
-**Dusyaant R** Specialization: Cybersecurity  
-SIMATS Engineering
+**Dusyaant R**
